@@ -1,20 +1,23 @@
-"""
-https://leetcode.com/problems/gas-station/
-Runtime: 52 ms, faster than 91.81% of Python3 online submissions for Gas Station.
-Memory Usage: 13.9 MB, less than 68.75% of Python3 online submissions for Gas Station.
-"""
+# https://leetcode.com/problems/gas-station
+# Runtime: 3112 ms, faster than 11.89% of Python online submissions for Gas Station.
+# Memory Usage: 13.6 MB, less than 9.09% of Python online submissions for Gas Station.
 
-
-class Solution:
-    def canCompleteCircuit(self, gas: List[int], cost: List[int]) -> int:
-        if sum(gas) < sum(cost):
-            return -1
-
-        tank = []
-
+class Solution(object):
+    def canCompleteCircuit(self, gas, cost):
+        """
+        :type gas: List[int]
+        :type cost: List[int]
+        :rtype: int
+        """
         for i in range(len(gas)):
-            previous = 0 if i == 0 else tank[i-1]
-            tank.append(gas[i] - cost[i] + previous)
-
-        min_index = tank.index(min(tank))
-        return 0 if min_index == len(gas)-1 else min_index + 1
+            tank = 0
+            for j in range(i, len(gas) + i):
+                if j >= len(gas):
+                    j = j-len(gas)
+                tank += gas[j]
+                tank -= cost[j]
+                if tank < 0:
+                    break
+            if tank >= 0:
+                return i
+        return -1

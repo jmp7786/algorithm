@@ -4,7 +4,6 @@ Runtime: 52 ms, faster than 91.81% of Python3 online submissions for Gas Station
 Memory Usage: 13.9 MB, less than 68.75% of Python3 online submissions for Gas Station.
 """
 
-
 class Solution:
     def canCompleteCircuit(self, gas: List[int], cost: List[int]) -> int:
         if sum(gas) < sum(cost):
