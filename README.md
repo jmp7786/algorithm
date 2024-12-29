@@ -36,6 +36,7 @@ Forking 잘 몰라요? 그럼 위에 *MERGE-FLOW* 링크 참조해요.
 ## Hash Table
 |  |
 | ------- |
+| [0314-binary-tree-vertical-order-traversal](https://github.com/jmp7786/algorithm/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [0348-design-tic-tac-toe](https://github.com/jmp7786/algorithm/tree/master/0348-design-tic-tac-toe) |
 | [1790-lowest-common-ancestor-of-a-binary-tree-iii](https://github.com/jmp7786/algorithm/tree/master/1790-lowest-common-ancestor-of-a-binary-tree-iii) |
 ## Design
@@ -57,10 +58,12 @@ Forking 잘 몰라요? 그럼 위에 *MERGE-FLOW* 링크 참조해요.
 ## Tree
 |  |
 | ------- |
+| [0314-binary-tree-vertical-order-traversal](https://github.com/jmp7786/algorithm/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [1790-lowest-common-ancestor-of-a-binary-tree-iii](https://github.com/jmp7786/algorithm/tree/master/1790-lowest-common-ancestor-of-a-binary-tree-iii) |
 ## Binary Tree
 |  |
 | ------- |
+| [0314-binary-tree-vertical-order-traversal](https://github.com/jmp7786/algorithm/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [1790-lowest-common-ancestor-of-a-binary-tree-iii](https://github.com/jmp7786/algorithm/tree/master/1790-lowest-common-ancestor-of-a-binary-tree-iii) |
 ## Math
 |  |
@@ -70,4 +73,16 @@ Forking 잘 몰라요? 그럼 위에 *MERGE-FLOW* 링크 참조해요.
 |  |
 | ------- |
 | [0670-maximum-swap](https://github.com/jmp7786/algorithm/tree/master/0670-maximum-swap) |
+## Depth-First Search
+|  |
+| ------- |
+| [0314-binary-tree-vertical-order-traversal](https://github.com/jmp7786/algorithm/tree/master/0314-binary-tree-vertical-order-traversal) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0314-binary-tree-vertical-order-traversal](https://github.com/jmp7786/algorithm/tree/master/0314-binary-tree-vertical-order-traversal) |
+## Sorting
+|  |
+| ------- |
+| [0314-binary-tree-vertical-order-traversal](https://github.com/jmp7786/algorithm/tree/master/0314-binary-tree-vertical-order-traversal) |
 <!---LeetCode Topics End-->
