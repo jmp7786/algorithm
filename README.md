@@ -62,4 +62,12 @@ Forking 잘 몰라요? 그럼 위에 *MERGE-FLOW* 링크 참조해요.
 |  |
 | ------- |
 | [1790-lowest-common-ancestor-of-a-binary-tree-iii](https://github.com/jmp7786/algorithm/tree/master/1790-lowest-common-ancestor-of-a-binary-tree-iii) |
+## Math
+|  |
+| ------- |
+| [0670-maximum-swap](https://github.com/jmp7786/algorithm/tree/master/0670-maximum-swap) |
+## Greedy
+|  |
+| ------- |
+| [0670-maximum-swap](https://github.com/jmp7786/algorithm/tree/master/0670-maximum-swap) |
 <!---LeetCode Topics End-->
