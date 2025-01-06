@@ -33,12 +33,14 @@ Forking 잘 몰라요? 그럼 위에 *MERGE-FLOW* 링크 참조해요.
 |  |
 | ------- |
 | [0348-design-tic-tac-toe](https://github.com/jmp7786/algorithm/tree/master/0348-design-tic-tac-toe) |
+| [3594-identify-the-largest-outlier-in-an-array](https://github.com/jmp7786/algorithm/tree/master/3594-identify-the-largest-outlier-in-an-array) |
 ## Hash Table
 |  |
 | ------- |
 | [0314-binary-tree-vertical-order-traversal](https://github.com/jmp7786/algorithm/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [0348-design-tic-tac-toe](https://github.com/jmp7786/algorithm/tree/master/0348-design-tic-tac-toe) |
 | [1790-lowest-common-ancestor-of-a-binary-tree-iii](https://github.com/jmp7786/algorithm/tree/master/1790-lowest-common-ancestor-of-a-binary-tree-iii) |
+| [3594-identify-the-largest-outlier-in-an-array](https://github.com/jmp7786/algorithm/tree/master/3594-identify-the-largest-outlier-in-an-array) |
 ## Design
 |  |
 | ------- |
@@ -85,4 +87,12 @@ Forking 잘 몰라요? 그럼 위에 *MERGE-FLOW* 링크 참조해요.
 |  |
 | ------- |
 | [0314-binary-tree-vertical-order-traversal](https://github.com/jmp7786/algorithm/tree/master/0314-binary-tree-vertical-order-traversal) |
+## Counting
+|  |
+| ------- |
+| [3594-identify-the-largest-outlier-in-an-array](https://github.com/jmp7786/algorithm/tree/master/3594-identify-the-largest-outlier-in-an-array) |
+## Enumeration
+|  |
+| ------- |
+| [3594-identify-the-largest-outlier-in-an-array](https://github.com/jmp7786/algorithm/tree/master/3594-identify-the-largest-outlier-in-an-array) |
 <!---LeetCode Topics End-->
